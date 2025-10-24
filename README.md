@@ -1,29 +1,32 @@
 # CS50X Solutions
 
-Complete collection of **CS50X** problem sets and projects with well-documented solutions. Perfect for reference, learning, or inspiration.  
+Complete collection of **CS50X** problem sets and projects, including web applications built with **Flask, Jinja, and Bootstrap**. Well-documented solutions for learning, reference, and inspiration.  
 
 ---
 
 ## 📂 Contents
 
 - **Problem Sets:** All CS50X psets, from Hello World to advanced exercises.  
-- **Projects:** Final projects with clear explanations and code.  
+- **Projects:** Final projects and web apps with clear explanations and code.  
 
 ---
 
 ## 🛠 Technologies
 
-- **C** – Main language for problem sets  
-- **Python** – Selected exercises  
-- **SQL** – Database-related tasks  
-- **HTML/CSS/JS** – Web projects  
+- **C** – Core language for CS50X problem sets  
+- **Python** – Selected exercises and web projects  
+- **Flask** – Web framework for Python projects  
+- **Jinja** – Templating engine used in Flask apps  
+- **Bootstrap** – Frontend styling for web projects  
+- **SQL** – Database projects  
+- **HTML/CSS/JS** – Web-based projects  
 
 ---
 
 ## 🚀 Usage
 
+Clone the repository:
+
 ```bash
 git clone https://github.com/YourUsername/CS50X-Solutions.git
 cd CS50X-Solutions/pset1
-gcc hello.c -o hello
-./hello
