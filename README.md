@@ -28,5 +28,5 @@ Complete collection of **CS50X** problem sets and projects, including web applic
 Clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/CS50X-Solutions.git
-cd CS50X-Solutions/pset1
+git clone https://github.com/MedaByte/CS50X-Psets-Projects/
+cd CS50X-Solutions/C 
